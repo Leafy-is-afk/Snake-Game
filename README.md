@@ -11,7 +11,7 @@ A classic Snake game built with HTML5 Canvas and vanilla JavaScript. Control the
 
 ## 🚀 Play Online
 
-Visit the live game: [Your Username].github.io/snake-game
+Visit the live game: https://leafy-is-afk.github.io/Snake-Game/
 
 ## 🛠️ Features
 
